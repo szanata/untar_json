@@ -1,0 +1,22 @@
+{
+  "name": "untar_json",
+  "version": "1.0.0",
+  "description": "Untar JSON tarballs nativelly with JS ",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szanata/untar_json.git"
+  },
+  "author": "Stéfano Zanata",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/szanata/untar_json/issues"
+  },
+  "homepage": "https://github.com/szanata/untar_json#readme"
+}
